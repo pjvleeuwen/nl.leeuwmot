@@ -1,5 +1,0 @@
-﻿package nl.leeuwmot.test.model;
-
-public class Step {
-
-}

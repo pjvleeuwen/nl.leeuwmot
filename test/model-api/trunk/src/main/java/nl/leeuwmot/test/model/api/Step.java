@@ -1,5 +1,5 @@
 ﻿package nl.leeuwmot.test.model.api;
 
-public class Step {
+public interface Step {
 
 }

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case xmlns="http://leeuwmot.nl/test/storage/fsxml/case-v1">
+	<title>first test case</title>
+	<step>
+		<description>first step</description>
+	</step>
+	<step>
+		<description>second step</description>
+	</step>
+</case>

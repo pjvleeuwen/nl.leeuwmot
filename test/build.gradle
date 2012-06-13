@@ -1,5 +1,12 @@
 subprojects {
 	apply plugin: 'java'
 	apply plugin: 'eclipse'
+	repositories {
+		mavenCentral()
+	}
 }
-
+project(':storage-fs-xml') {
+	dependencies {
+		testCompile 'junit:junit:4.10'
+	}
+}
